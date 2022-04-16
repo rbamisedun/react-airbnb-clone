@@ -31,7 +31,7 @@ section {
 }
 
 .hero {
-    display: flex;
+    display: block;
     flex-direction: column;
 }
 
