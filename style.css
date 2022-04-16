@@ -28,11 +28,11 @@ nav {
 }
 
 section {
-    padding: 20px;
+    padding: 200px;
 }
 
 .hero {
-    display: flex;
+    display: block;
     flex-direction: column;
 }
 
